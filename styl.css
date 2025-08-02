@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -410,4 +411,79 @@ body {
     .rec-icon {
         align-self: center;
     }
+=======
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background: linear-gradient(140deg, rgb(0, 200, 255), rgb(39, 91, 183), rgb(0, 255, 242));
+    height: 100vh;
+    text-align: center;
+    padding: 100px;
+    color: white;
+}
+#mainContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255,255, 0.1);
+    border-radius: 10px;
+    padding: 10px;
+    width: 90%;
+    max-width: 400px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.7);
+    overflow: hidden;
+    margin: auto;
+}
+#header{
+    font-size: 35px;
+    margin-bottom: 24px;
+    text-decoration: underline rgba(0, 0, 0, 0.4);
+}
+
+input{
+    width: 80%;
+    text-align: center;
+    border-radius: 12px;
+    border: none;
+    margin: 10px;
+    font-size: 20px;
+}
+button{
+    border: none;
+    font-size: 15px;
+    border-radius: 12px;
+    width: 40%;
+    cursor: pointer;
+    padding: 8px;
+    color: white;
+    background-color: rgb(35, 173, 86);
+    margin-bottom: 12px;
+    transition: 0.5s;
+}
+button:hover{
+    background-color: rgb(69, 79, 219);
+}
+.mainItems{
+    border: none;
+    border-radius: 12px;
+    padding: 10px;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.1);
+}
+.mainItems li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    padding: 8px 10px;
+    border-bottom: 1 px solid rgba(255, 255, 255, 0.3);
+}
+li p{
+    text-decoration: underline;
+>>>>>>> f491fd2126d8590a4f7d6657b79342223d42f06f
 }
