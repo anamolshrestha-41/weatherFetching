@@ -39,6 +39,9 @@ A modern, AI-powered weather application that provides real-time weather data an
 ### Installation
 
 1. Clone or download the repository
+```bash
+git clone https://github.com/anamolshrestha-41/weatherFetching.git
+```
 2. Navigate to the `weatherFetching` folder
 3. Open `index.html` in your web browser
 
@@ -53,11 +56,11 @@ A modern, AI-powered weather application that provides real-time weather data an
 
 ```
 weather-fetch/
+├── README.md           # Project documentation
 └── weatherFetching/
     ├── index.html      # Main HTML structure
     ├── styl.css        # Styling and animations
-    ├── script.js       # JavaScript functionality
-    └── README.md       # Project documentation
+    └── script.js       # JavaScript functionality
 ```
 
 ## API Integration
@@ -88,6 +91,18 @@ The AI assistant analyzes weather conditions to provide:
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
+
+## Features Highlights
+
+- **Real-time Data**: Live weather updates from OpenWeatherMap API
+- **AI Intelligence**: Smart recommendations based on weather conditions
+- **Modern Design**: Glassmorphism UI with smooth animations
+- **Mobile Responsive**: Works perfectly on all device sizes
+- **Fast Performance**: Optimized for quick loading and smooth interactions
+
+## License
+
+This project is open source and available under the MIT License.
 
 ## Contact
 
