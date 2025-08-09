@@ -52,16 +52,6 @@ git clone https://github.com/anamolshrestha-41/weatherFetching.git
 3. View current weather conditions
 4. Read AI-generated recommendations for clothing, activities, and tips
 
-## File Structure
-
-```
-weather-fetch/
-├── README.md           # Project documentation
-└── weatherFetching/
-    ├── index.html      # Main HTML structure
-    ├── styl.css        # Styling and animations
-    └── script.js       # JavaScript functionality
-```
 
 ## API Integration
 
@@ -77,12 +67,6 @@ The AI assistant analyzes weather conditions to provide:
 - Weather-appropriate activity suggestions
 - Health and safety tips based on humidity, wind, and conditions
 
-## Browser Compatibility
-
-- Chrome 60+
-- Firefox 55+
-- Safari 12+
-- Edge 79+
 
 ## Contributing
 
@@ -100,9 +84,6 @@ The AI assistant analyzes weather conditions to provide:
 - **Mobile Responsive**: Works perfectly on all device sizes
 - **Fast Performance**: Optimized for quick loading and smooth interactions
 
-## License
-
-This project is open source and available under the MIT License.
 
 ## Contact
 
